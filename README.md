@@ -1,26 +1,6 @@
 # Hackintosh for **Asus FX506LHB** macOS Sonoma 14.6.1
 **Latest OpenCore version 1.0.1**
 
-<!-- START shields -->
-<div>
-    <!-- downloads --><a href="https://github.com/RobyRew/ASUS-FX506LHB-Hackintosh_OpenCore/releases">
-        <img src="https://img.shields.io/github/downloads/RobyRew/ASUS-FX506LHB-Hackintosh_OpenCore/total" alt="downloads"/>
-    </a>
-    <!-- version --><a href="https://github.com/RobyRew/ASUS-FX506LHB-Hackintosh_OpenCore/releases/latest">
-        <img src="https://img.shields.io/github/release/RobyRew/ASUS-FX506LHB-Hackintosh_OpenCore.svg" alt="latest version"/>
-    </a>
-     <!-- platform --><a href="https://github.com/RobyRew/ASUS-FX506LHB-Hackintosh_OpenCore">
-        <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform"/>
-    </a>
-</div>
-</br>
-<!-- END shields -->
-
-![Asus FX506LHB running macOS Ventura](/Docs/Images/Asus-FX506LHB-macOS.png)
-
-# Specifications
-Here's the [Amazon Link](https://www.amazon.es/ASUS-TUF-Gaming-F15-FX506LHB/dp/B09TRDT8DC) for this exact model.
-
 Specification | Working
 ------------- | -------------
 Motherboard:  | FX506LHB **HM470** |
